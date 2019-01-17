@@ -1,0 +1,153 @@
+.fadeout_on_toggle{
+	background: #010101;
+
+}
+.touch_icon{
+	margin: 100px 0px;
+}
+.touch_icon h1{
+	color: yellow;
+	margin-bottom: 30px;
+}
+.touch_icon h2{
+	color: white;
+}
+.touch_icon button{
+	margin-left: 20px;
+}
+.touch_icon button i{
+	background: #fcdb00 ! important;
+	border-radius: 50%;
+	width: 100px;
+	height: 100px;
+	color: blue;
+	transition: 2s;
+	cursor: pointer;
+	padding-top: 40px;
+	font-size: 30px;
+}
+.touch_icon i:hover{
+	color: yellow;
+	background: #898989 ! important
+}
+.touch_icon h3{
+	color: white;
+}
+.fn{
+    border: 2px solid red;
+   width: 400px;
+    color: white;
+}
+.fn h4{
+	font-size: 40px;
+}
+.touch_icon p{
+	color: white;
+	font-size: 30px;
+}
+.touch_icon h5{
+	color: white;
+	font-size: 40px;
+}
+/*7th ex*/
+.odd{
+    background: orange;
+    padding: 10px;
+    font-size: 30px;
+}
+.even{
+    background: skyblue;
+    padding: 10px;
+    font-size: 30px;
+}
+
+.first{
+    color: red;
+    padding: 10px;
+}
+.last{
+    color: blue;
+    padding: 10px;
+}
+.nth{
+   	background: maroon;
+   	color: white;
+    padding: 10px;
+}
+/*8th exs*/
+.flip{
+	padding: 5px;
+    text-align: center;
+    background-color: #e5eecc;
+    border: solid 1px yellow;
+    font-size: 30px;
+    font-weight: bold;
+}
+.panel{
+	padding: 50px;
+    display: none;
+    background-color: red;
+    border: solid 1px yellow;
+    font-size: 20px;
+    color: white;
+}
+.animation-part{
+	background: #010101;
+	padding-bottom: 100px;
+}
+.animation h1{
+	color: yellow;
+	margin-bottom: 30px;
+}
+.animation_1{
+	margin-bottom: 120px;
+}
+.animation_1 p{
+	background: blue;
+	height:100px;
+	width:100px;
+	position:absolute;
+	font-size: 20px;
+	color: white;
+	border-radius: 10px;
+	margin-top: 20px;
+	padding-left: 10px;
+}
+.style {
+	margin-bottom: 120px;
+}
+.style p{
+	color: black;
+	background: white;
+	height:100px;
+	width:100px;
+	position:absolute;
+	margin-top: 30px;
+	border-radius: 10px;
+	font-size: 20px;
+	padding-left: 5px;
+	font-weight: bold;
+}
+.p_3{
+	color: white.
+}
+.style_2{
+	margin-bottom: 120px;
+}
+.style_2 p{
+	background:#98bf21;
+	height:100px;
+	width:200px;
+	position:absolute;
+	position:absolute;
+	margin-top: 30px;
+	border-radius: 10px;
+	font-size: 20px;
+	padding-left: 10px;
+	font-weight: bold;
+}
+.style_3 p{
+	font-weight: bold;
+	color: red;
+	font-size: 20px;
+}
